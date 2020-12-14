@@ -1,0 +1,48 @@
+[
+    {
+        "artistId": 1,
+        "liveId": 1,
+        "mail": "hiroki@gmail.com",
+        "password": "unko",
+        "artistName": "いしまるもり",
+        "desc": "unkoですこんにちは",
+        "image": "https://jp.vuejs.org/images/logo.png",
+        "officalYoutubeURL": "https://jp.vuejs.org/images/logo.png",
+        "likeNum": 0,
+        "twitterURL": "https://jp.vuejs.org/images/logo.png",
+        "instagramURL": "https://jp.vuejs.org/images/logo.png",
+        "postMusicList": [1,2],
+        "accountAuth": 1
+    },
+    {
+        "artistId": 1,
+        "liveId": 1,
+        "mail": "hiroki@gmail.com",
+        "password": "unko",
+        "artistName": "いしまるもり2",
+        "desc": "unkoですこんにちは",
+        "image": "https://jp.vuejs.org/images/logo.png",
+        "officalYoutubeURL": "https://jp.vuejs.org/images/logo.png",
+        "likeNum": 0,
+        "twitterURL": "https://jp.vuejs.org/images/logo.png",
+        "instagramURL": "https://jp.vuejs.org/images/logo.png",
+        "postMusicList": [1,2],
+        "accountAuth": 1
+    },
+    {
+        "artistId": 1,
+        "liveId": 1,
+        "mail": "hiroki@gmail.com",
+        "password": "unko",
+        "artistName": "いしまるもり3",
+        "desc": "unkoですこんにちは",
+        "image": "https://jp.vuejs.org/images/logo.png",
+        "officalYoutubeURL": "https://jp.vuejs.org/images/logo.png",
+        "likeNum": 0,
+        "twitterURL": "https://jp.vuejs.org/images/logo.png",
+        "instagramURL": "https://jp.vuejs.org/images/logo.png",
+        "postMusicList": [1,2],
+        "accountAuth": 1
+    }
+
+]

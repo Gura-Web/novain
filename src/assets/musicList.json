@@ -1,0 +1,26 @@
+[
+    {
+        "musicId": 1,
+        "artistId": 1,
+        "title": "いしまるもりの歌1",
+        "category": [1,2],
+        "image": "https://jp.vuejs.org/images/logo.png",
+        "youtubeUrl": "https://jp.vuejs.org/images/logo.png"
+    },
+    {
+        "musicId": 2,
+        "artistId": 2,
+        "title": "いしまるもりの歌2",
+        "category": [3,4],
+        "image": "https://jp.vuejs.org/images/logo.png",
+        "youtubeUrl": "https://jp.vuejs.org/images/logo.png"
+    },
+    {
+        "musicId": 3,
+        "artistId": 3,
+        "title": "いしまるもりの歌3",
+        "category": [4,5],
+        "image": "https://jp.vuejs.org/images/logo.png",
+        "youtubeUrl": "https://jp.vuejs.org/images/logo.png"
+    }
+]

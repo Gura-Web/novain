@@ -1,0 +1,22 @@
+[
+    {
+        "cateogryId": 1,
+        "category": "JPOP"
+    },
+    {
+        "cateogryId": 2,
+        "category": "KPOP"
+    },
+    {
+        "cateogryId": 3,
+        "category": "バラード"
+    },
+    {
+        "cateogryId": 4,
+        "category": "ノリノリ"
+    },
+    {
+        "cateogryId": 5,
+        "category": "ラップ"
+    }
+]
